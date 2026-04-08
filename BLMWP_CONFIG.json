@@ -1,0 +1,9 @@
+{
+  "apps": [
+    "Discord",
+    "OneDrive",
+    "Spotify"
+  ],
+  "abortIfMissing": false,
+  "action": "disable" 
+}
